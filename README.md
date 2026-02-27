@@ -40,7 +40,7 @@
   <div align="center">
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nongoantonio&theme=transparent"/>
+  
 </div>
 
 </div>
