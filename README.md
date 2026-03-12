@@ -43,8 +43,7 @@
   <br>
 
 <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nongoantonio&theme=tokyonight"/>
-<img 
-      align="left" 
+<img align="center" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nongoantonio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
