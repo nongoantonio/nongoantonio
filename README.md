@@ -43,6 +43,7 @@
   <br>
 
 <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nongoantonio&theme=tokyonight"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nongoantonio)](https://github.com/nongoantonio/github-readme-stats)
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
