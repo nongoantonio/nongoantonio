@@ -42,10 +42,9 @@
   <br>
   <br>
 
-## 💻 Linguagens Mais Utilizadas
 
 <div align="center">
-<img height="170"
+<img height="250"
 src="https://stats-github-readme.vercel.app/api/top-langs/?username=nongoantonio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 </div>
