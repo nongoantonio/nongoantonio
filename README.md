@@ -42,7 +42,12 @@
   <br>
   <br>
 
-<img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nongoantonio&theme=cobalt"/>
+## 💻 Linguagens Mais Utilizadas
+
+<div align="center">
+<img height="170"
+src="https://stats-github-readme.vercel.app/api/top-langs/?username=nongoantonio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
