@@ -21,13 +21,5 @@
   <div align="center">
   <br>
   <br>
-
-
-<div align="center">
-<img height="400"
-src="https://stats-github-readme.vercel.app/api/top-langs/?username=nongoantonio&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
-</div>
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
   
