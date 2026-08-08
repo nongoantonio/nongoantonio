@@ -53,6 +53,11 @@
   </picture>
 </p>
 
+## ⏱️ Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🌐 Where to find me
 
 <p align="center">
