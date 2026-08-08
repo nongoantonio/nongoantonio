@@ -17,6 +17,19 @@
   <img src="https://img.shields.io/badge/nongoantonio_-black" />
 </div>
 <div align="center">
+
+## 🌐 Where to find me
+<p align="left">
+  <a href="https://github.com/nongoantonio">
+    <img src="https://img.shields.io/badge/GitHub-nongoantonio-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/gideao.hernandez">
+    <img src="https://img.shields.io/badge/Instagram-@gideao.hernandez-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nongo-antónio-9691603a3">
+    <img src="https://img.shields.io/badge/Linkedin-nongo-antónio-9691603a3-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
   
   <div align="center">
   <br>
