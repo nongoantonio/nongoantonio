@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Instagram-@gideao.hernandez-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nongo-antónio-9691603a3">
-    <img src="https://img.shields.io/badge/Linkedin-nongo-antónio-9691603a3-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linkedin-nongo-antónio-9691603a3-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
   
