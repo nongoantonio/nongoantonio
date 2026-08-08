@@ -1,6 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/>
 <div align="center" style="display: inline_block"><br>
-
 ###  Hi there!,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 <samp>
       <br>
@@ -11,10 +10,6 @@
 <br>
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffff&width=900&size=22&center=true&lines=I+am+from+Angola!;I'm+Developer;Passionate+about+learning+,always+evolving;Be+Welcome+to+my+GitHub!" alt="Typing SVG"/>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/nongoantonio_-black" />
 </div>
 
 ## 🌐 Where to find me
