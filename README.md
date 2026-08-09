@@ -33,12 +33,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=nongoantonio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=nongoantonio&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nongoantonio&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nongoantonio&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=nongoantonio&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <br/>
