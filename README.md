@@ -1,13 +1,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/>
 <div align="center" style="display: inline_block"><br>
-<h1 align="center">Hi there, I'm Nongo António 👋</h1>
 
-<h3 align="center">Software Engineer | Web Development | UI/UX Design</h3>
+  <h1 align="center">Hi, I'm Nongo António 👋</h1>
+
+<h3 align="center">Software Engineer specializing in Web Development & UI/UX Design</h3>
 
 <p align="center">
   I believe in continuous learning and constantly strive to grow by exploring new technologies,
-  tools, and best practices to build solutions that solve real problems and add value to
+  tools, and best practices — building solutions that solve real problems and add value to
   people and organizations. I value collaboration, innovation, and crafting quality software.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Based%20in-Angola-yellow?style=flat-square" />
 </p>
 
 <br/>
@@ -33,13 +39,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=nongoantonio&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nongoantonio&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=nongoantonio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nongoantonio&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nongoantonio&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=nongoantonio&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nongoantonio&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph"/>
+</p>
+
+<br/>
+
+## ⏱️ Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br/>
 
@@ -53,15 +70,7 @@
   </picture>
 </p>
 
-## ⏱️ Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+<br/>
 
 ## 🌐 Where to find me
 
@@ -76,17 +85,6 @@ No activity tracked
     <img src="https://img.shields.io/badge/LinkedIn-Nongo_António-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nongoantonio&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-</p>
-
-
-
-
-
 
 
 
