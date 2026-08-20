@@ -1,9 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/>
 <div align="center" style="display: inline_block"><br>
 
-  <h1 align="center">Hi, I'm Nongo António 👋</h1>
+<h1 align="center">Hi, I'm Nongo António 👋</h1>
 
-<h3 align="center">Software Engineer specializing in Web Development & UI/UX Design</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Software+Engineer;Web+Developer;UI%2FUX+Designer;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
 <p align="center">
   I believe in continuous learning and constantly strive to grow by exploring new technologies,
@@ -36,6 +38,16 @@
 
 <br/>
 
+## 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-Laravel_Advanced-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exploring-System_Design-4285F4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Improving-UI%2FUX_Process-8A2BE2?style=flat-square" />
+</p>
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -49,6 +61,10 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nongoantonio&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nongoantonio&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 <br/>
@@ -75,6 +91,9 @@
 ## 🌐 Where to find me
 
 <p align="center">
+  <a href="mailto:gideaohernandez@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://github.com/nongoantonio">
     <img src="https://img.shields.io/badge/GitHub-nongoantonio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
