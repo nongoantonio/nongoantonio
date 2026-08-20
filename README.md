@@ -1,4 +1,4 @@
-  <p align="center">
+ <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0A66C2&height=180&section=header&text=Nongo%20António&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Web%20Development%20%7C%20UI%2FUX%20Design&descAlignY=55&descSize=18" />
 </p>
 
@@ -125,4 +125,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1a1a2e&height=100&section=footer" />
 </p>
-
