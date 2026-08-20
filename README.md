@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2d1b4e,100:6a0dad&height=200&section=header&text=Nongo%20António&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Web%20Development%20%7C%20UI%2FUX%20Design&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:196127,100:39d353&height=200&section=header&text=Nongo%20António&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Web%20Development%20%7C%20UI%2FUX%20Design&descAlignY=58&descSize=18&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-6a0dad?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Based%20in-Angola-2d1b4e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-39d353?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Based%20in-Angola-196127?style=for-the-badge" />
 </p>
 
 <br/>
@@ -23,7 +23,7 @@ const nongoAntonio = {
 };
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:6a0dad&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:39d353&height=3&width=100%" />
 
 <h2 align="center">👨‍💻 What I Do</h2>
 
@@ -36,7 +36,7 @@ const nongoAntonio = {
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:6a0dad&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:39d353&height=3&width=100%" />
 
 <h2 align="center">🚀 Tech Stack</h2>
 
@@ -73,34 +73,34 @@ const nongoAntonio = {
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:6a0dad&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:39d353&height=3&width=100%" />
 
 <h2 align="center">🌱 Currently Learning</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel_Advanced-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Design-2d1b4e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%2FUX_Process-6a0dad?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System_Design-196127?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX_Process-39d353?style=for-the-badge" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:6a0dad&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:39d353&height=3&width=100%" />
 
 <h2 align="center">📊 GitHub Overview</h2>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=nongoantonio&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nongoantonio&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=nongoantonio&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nongoantonio&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nongoantonio&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=nongoantonio&theme=github-dark-blue&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nongoantonio&theme=dracula&hide_border=true" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nongoantonio&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&hide_border=true" alt="Contribution Activity Graph"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:6a0dad&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:39d353&height=3&width=100%" />
 
 <h2 align="center">⏱️ Weekly Coding Activity</h2>
 
@@ -111,7 +111,7 @@ const nongoAntonio = {
 
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:6a0dad&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:39d353&height=3&width=100%" />
 
 <h2 align="center">🐍 Contribution Graph</h2>
 
@@ -123,7 +123,7 @@ const nongoAntonio = {
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:6a0dad&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:39d353&height=3&width=100%" />
 
 <h2 align="center">🌐 Let's Connect</h2>
 
@@ -143,5 +143,5 @@ const nongoAntonio = {
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:2d1b4e,100:0d0d0d&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:196127,100:0d1117&height=120&section=footer" />
 </p>
