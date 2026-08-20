@@ -3,30 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="#-english">🇬🇧 English</a> &nbsp;|&nbsp; <a href="#-português">🇵🇹 Português</a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-39d353?style=for-the-badge" alt="Open to opportunities badge" />
   <img src="https://img.shields.io/badge/Based%20in-Angola-196127?style=for-the-badge" alt="Based in Angola badge" />
 </p>
-
-<br/>
-
-<h3 id="-english" align="center">🇬🇧 English</h3>
 
 <p align="center">
   I believe in continuous learning and constantly strive to grow by exploring new technologies,
   tools, and best practices — building solutions that solve real problems and add value to
   people and organizations. I value collaboration, innovation, and crafting quality software.
-</p>
-
-<h3 id="-português" align="center">🇵🇹 Português</h3>
-
-<p align="center">
-  Acredito na aprendizagem contínua e procuro evoluir constantemente, explorando novas tecnologias,
-  ferramentas e boas práticas para criar soluções que resolvam problemas reais e acrescentem valor
-  a pessoas e organizações. Valorizo a colaboração, a inovação e a construção de software de qualidade.
 </p>
 
 <br/>
