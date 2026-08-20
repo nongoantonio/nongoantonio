@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0A66C2&height=200&section=header&text=Nongo%20António&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Web%20Development%20%7C%20UI%2FUX%20Design&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2d1b4e,100:6a0dad&height=200&section=header&text=Nongo%20António&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Web%20Development%20%7C%20UI%2FUX%20Design&descAlignY=58&descSize=18&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -7,30 +7,36 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Based%20in-Angola-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-6a0dad?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Based%20in-Angola-2d1b4e?style=for-the-badge" />
 </p>
 
-<p align="center">
-  I believe in continuous learning and constantly strive to grow by exploring new technologies,
-  tools, and best practices — building solutions that solve real problems and add value to
-  people and organizations. I value collaboration, innovation, and crafting quality software.
-</p>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:1a1a2e&height=3&width=100%" />
+```javascript
+const nongoAntonio = {
+  role: "Software Engineer",
+  focus: ["Web Development", "UI/UX Design"],
+  currentlyLearning: ["Advanced Laravel", "System Design", "UI/UX Process"],
+  philosophy: "Continuous learning, quality craftsmanship, real impact",
+  funFact: "Believes clean code and clean design are the same discipline"
+};
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:6a0dad&height=3&width=100%" />
 
 <h2 align="center">👨‍💻 What I Do</h2>
 
 <table align="center">
   <tr>
     <td align="center" width="220">🎨<br/><b>UI/UX Design</b><br/><sub>User-focused interfaces</sub></td>
-    <td align="center" width="220">⚙️<br/><b>Full-Stack Development</b><br/><sub>JavaScript & PHP ecosystems</sub></td>
+    <td align="center" width="220">⚙️<br/><b>Full-Stack Development</b><br/><sub>JavaScript, PHP & C ecosystems</sub></td>
     <td align="center" width="220">🧩<br/><b>Design-Dev Bridge</b><br/><sub>Cohesive product experiences</sub></td>
     <td align="center" width="220">📚<br/><b>Continuous Learning</b><br/><sub>New tools & best practices</sub></td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:1a1a2e&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:6a0dad&height=3&width=100%" />
 
 <h2 align="center">🚀 Tech Stack</h2>
 
@@ -40,6 +46,7 @@
     <td align="center">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -59,47 +66,52 @@
     <td align="center"><b>Database & Tools</b></td>
     <td align="center">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
     </td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:1a1a2e&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:6a0dad&height=3&width=100%" />
 
 <h2 align="center">🌱 Currently Learning</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel_Advanced-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Design-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%2FUX_Process-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System_Design-2d1b4e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX_Process-6a0dad?style=for-the-badge" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:1a1a2e&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:6a0dad&height=3&width=100%" />
 
 <h2 align="center">📊 GitHub Overview</h2>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=nongoantonio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nongoantonio&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=nongoantonio&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nongoantonio&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nongoantonio&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=nongoantonio&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nongoantonio&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nongoantonio&theme=dracula&hide_border=true" alt="Contribution Activity Graph"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:1a1a2e&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:6a0dad&height=3&width=100%" />
 
 <h2 align="center">⏱️ Weekly Coding Activity</h2>
+
+<p align="center">
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:1a1a2e&height=3&width=100%" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:6a0dad&height=3&width=100%" />
 
 <h2 align="center">🐍 Contribution Graph</h2>
 
@@ -111,7 +123,7 @@
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:1a1a2e&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:6a0dad&height=3&width=100%" />
 
 <h2 align="center">🌐 Let's Connect</h2>
 
@@ -131,5 +143,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1a1a2e&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:2d1b4e,100:0d0d0d&height=120&section=footer" />
 </p>
