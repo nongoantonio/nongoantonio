@@ -4,7 +4,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-39d353?style=for-the-badge" alt="Open to opportunities badge" />
-  <img src="https://img.shields.io/badge/Based%20in-Angola-196127?style=for-the-badge" alt="Based in Angola badge" />
+  <img src="https://img.shields.io/badge/Available%20for-Remote%20%7C%20Worldwide-196127?style=for-the-badge" alt="Available for remote work worldwide badge" />
+  <img src="https://img.shields.io/badge/Based%20in-Angola-0d1117?style=for-the-badge" alt="Based in Angola badge" />
 </p>
 
 <p align="center">
