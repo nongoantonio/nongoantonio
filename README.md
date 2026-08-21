@@ -105,7 +105,7 @@ const nongoAntonio = {
 <h2 align="center">🎧 Now Playing</h2>
 
 <p align="center">
-  <img src="https://novatorem-nongoantonio.vercel.app/api/spotify" alt="Spotify now playing widget" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31brkq5qo62tsaly5ityqphy3jti&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&bar_color=39d353&bar_color_cover=false" alt="Spotify now playing widget" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:39d353&height=3&width=100%" alt="section divider" />
