@@ -134,7 +134,11 @@ const nongoAntonio = {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   9 mins                ██████████████▒░░░░░░░░░░   57.80 %
+Markdown     5 mins                ███████▓░░░░░░░░░░░░░░░░░   30.75 %
+Other        0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+HTML         0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+CSS          0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
