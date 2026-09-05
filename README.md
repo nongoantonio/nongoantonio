@@ -174,7 +174,7 @@ CSS          3 mins                █░░░░░░░░░░░░░░
 <h2 align="center">🌃 Contribution Skyline</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nongoantonio/nongoantonio/main/profile-3d-contrib/profile-green-animate.svg" alt="3D skyline visualization of GitHub contributions" />
+  <img src="https://raw.githubusercontent.com/nongoantonio/nongoantonio/main/profile-3d-contrib/profile-night-green.svg" alt="3D skyline visualization of GitHub contributions" />
 </p>
 
 <p align="center">
