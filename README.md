@@ -122,7 +122,7 @@ const nongoAntonio = {
   <img src="https://streak-stats.demolab.com?user=nongoantonio&theme=github-dark-blue&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&hide_border=true" alt="GitHub contribution streak: total contributions, current and longest streak" />
 </p>
 
-<h2 align="center">🌃 Contribution Skyline</h2> <p align="center"> <img src="https://raw.githubusercontent.com/nongoantonio/nongoantonio/main/profile-3d-contrib/profile-night-view.svg" alt="3D skyline visualization of GitHub contributions" /> </p> Faça commit e verifique no seu perfil.
+<h2 align="center">🌃 Contribution Skyline</h2> <p align="center"> <img src="https://raw.githubusercontent.com/nongoantonio/nongoantonio/main/profile-3d-contrib/profile-night-view.svg" alt="3D skyline visualization of GitHub contributions" /> </p> 
 
 <h2 align="center">⏱️ Weekly Coding Activity</h2>
 
