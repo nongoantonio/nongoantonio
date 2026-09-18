@@ -112,6 +112,16 @@ const nongoAntonio = {
 
 <h2 align="center">📊 GitHub Overview</h2>
 
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=nongoantonio&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=ffffff&ring_color=39d353" alt="Gideão Hernández's GitHub statistics: stars earned, commits, PRs, issues" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nongoantonio&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=ffffff" alt="Most used programming languages across repositories" height="165"/>
+</p>
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nongoantonio&theme=github-dark-blue&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&hide_border=true" alt="GitHub contribution streak: total contributions, current and longest streak" />
+</p>
+
 
 
 <h2 align="center">⏱️ Weekly Coding Activity</h2>
