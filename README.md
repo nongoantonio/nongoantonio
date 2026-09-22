@@ -119,7 +119,7 @@ const nongoAntonio = {
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nongoantonio&theme=github-dark-blue&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&hide_border=true" alt="GitHub contribution streak: total contributions, current and longest streak" />
+  <img src="https://streak-stats.demolab.com?user=nongoantonio&theme=&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&hide_border=true" alt="GitHub contribution streak: total contributions, current and longest streak" />
 </p>
 
 
