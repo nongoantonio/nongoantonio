@@ -131,10 +131,8 @@ const nongoAntonio = {
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 2 mins           █████████████░░░░░░░░░░░░   52.26 %
-Markdown     41 mins               ████████▓░░░░░░░░░░░░░░░░   34.92 %
-JavaScript   14 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
-HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+TypeScript   36 mins               ██████████████████████░░░   87.46 %
+Markdown     5 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
 ```
 
 <!--END_SECTION:waka-->
