@@ -110,6 +110,12 @@ const nongoAntonio = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:39d353&height=3&width=100%" alt="section divider" />
 
+<h2 align="center">📈 Contribution Activity Over Time</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nongoantonio&theme=github_dark&bg_color=0d1117&title_color=39d353&text_color=ffffff&icon_color=39d353&chart_color=39d353&border_color=39d353&animation=draw" alt="Profile summary: total contributions, public repos, join date and contribution activity chart for the last year" />
+</p>
+
 <h2 align="center">📊 GitHub Overview</h2>
 
 <p align="center">
